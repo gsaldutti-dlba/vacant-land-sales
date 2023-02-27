@@ -1,0 +1,14 @@
+name: private_lot_sales
+title: private_lot_sales
+username:
+account: gsalduttidlba
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7751472
+bundleId: 6640871
+url: https://gsalduttidlba.shinyapps.io/private_lot_sales/
+when: 1671120874.26162
+lastSyncTime: 1671120874.26163
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .httr-oauth-salesforcer|inputs/raw_property_sales.RDS|inputs/rep-polys.par|r-scripts/clean_property-sales.R|r-scripts/eda_NOTRUN.R|r-scripts/query_sf-demo.R|r-scripts/query_sf-request-selected-buyer.R|r-scripts/sfimport.R|shapes/batch_geoms.par|shapes/parcels.par|outputs
